@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "chiper-development",
+    "private_key_id": "0afe12002d3fedd7f7860ca4110b035a4f4ae81a",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIXDq9g4QZhLHX\nphtA6sJHUUiGPC9yXMXw5qTET4LpfqcVahLBlpg2n/B6m3e3wS5m5dI3RvSERQQD\nMtpdok0lJwQhesdJKcHOLGiFkWftX1PSiQ1evTXd/wSTEo4WFim58W3WiGFA83+A\nz8k0Vxf+NT9BAxFZDeJR25TcKHRmWmKEcJA6cGS8LvgEAK3zJqQ3x0KdIZSVQOQ8\niQXMnDhOlseQnGaZiy2x/qNZswGLIT6vlMgU8dcT5w6owKexsh9yNgzYhErHZ5wp\nAbLjAWkuXkioMp2Amb451DmmFs17njFhyWPfF9VJpUBVRAcR8IrntYreidmy8xSL\n252Ah0OtAgMBAAECggEAI2Svd7TYzA01wUt1ewU9Zo3ESvosw34B9Wk45/jHvmmC\nKHVBdPMeVl/wgigegNZeVQz6Eou1O/xZFhuQmYPHLu3ye9uNgq4er0YG/LlP642w\nZ/uP4hF4h4u6CiT39ozZuCAe8AvNakTZXC7YcyeDdIOBdgGNufaK6Tzp0e5PiZjT\njIwrH6CV3am93WcKBSXg/O7vDMssCB/nokXQ/cXNJDOF7ngLFLvOSnP3dACoDAow\nsqj5qKy2XpFVOidnNuIKgFekgKZCMBAOun11vGD/0n+XU1yjK9WDBCAOkoExkWX0\nwedwHQT/xj1dWJmpAPspbqDgafFesMd0fQfmHW1A4QKBgQD2RtICzwnjfBjLfejS\nq/HT3aZZM6Gb2DlcTSiTE+Ij0LE1D9xidlyE+oniiqPocZOoxHLPhCuBMksiqHXV\nbGn6hNke9UaOh27zPzPo31X1k1iiwaEA4JJq+ozmJ25cjWc79ZaTXDrgRzyUkp3Q\nlGuZ7FfTVBNX2iJ3eKzE6+r5dQKBgQDQRVIjSFX/cVGDVeOu3xn3RlbeDVnUtccf\nKSAduqIW7JQsDfDfkVnM9CwSB6SrAcEi6b8vnK9ynyqqI3ANG0MHFqqjGH58Oegw\nvXxSDk/VcZh7IrHAhqDE7+oES965+mjMKcoWfPTdli+KZJTL9W7zuoCcK1D3v8es\nkLV3MEEiWQKBgCDY30fan2IE+jWh7Hy0zENKy9YX6dUkaLoj3GaJf17xhcEjBWzo\nhnyCAgQCI8xr4Zrf4MRGx5qqv5S2zUiS9iugrmjPpAJ8k9LDukO0Df38EhVbKAM6\n8KxuEH7eAX08quk3X0b2RTAGsFDMoVnhgdx8xlX8X7wW7wPqR3jYUnXFAoGAOagn\nMAtTe28EkOZTLNMonhMD818g0kksgczhzjkfrFb8QiHt4AaeJKYoGSmyhYDr1d1+\nBxFKZOH5brZ2y7oTWUAGJzadtYhWZj/ezdyWb1GOU/Br4w+iLEL6twvF8hiHsJWV\nE5quMzXjnV1w7/HXMHQeLJ21QZD/Fx/MjN13+qkCgYEA447tSMv/LsRx2DQPKPGz\ndmRldtjQhoyJfkuLFHHishu4FmseUBWIhFaF+nThmEPo3M67U9IilLiZfOX4/ht9\nplMSGo8LLlm16Py6bOfHVtNN+PRTqlmWPCkQ3kGmo3kad5p+eSWsm91sSKv10UUL\niwfF26NkKqtcbrHrUVDD5ZE=\n-----END PRIVATE KEY-----\n",
+    "client_email": "assigned-labels@chiper-development.iam.gserviceaccount.com",
+    "client_id": "111896210113391166516",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/assigned-labels%40chiper-development.iam.gserviceaccount.com"
+  }
